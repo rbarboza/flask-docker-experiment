@@ -4,3 +4,4 @@ Dockerfile-dev
 Dockerfile-prod
 .DS_Store
 .gitignore
+htmlcov
